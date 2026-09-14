@@ -1,0 +1,3 @@
+git add .
+git commit -m "Update: Add all social links + Floating WhatsApp. Removed LinkedIn"
+git push origin branch-name
